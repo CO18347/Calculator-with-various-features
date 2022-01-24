@@ -5,4 +5,4 @@
 - It can calculate area of circle and square 
 - It can find the Nth Prime Number
 - Do some scientific operations
-![Test Image 1](main-page.jpg)
+![Test Image 1](pattern.jpg)
